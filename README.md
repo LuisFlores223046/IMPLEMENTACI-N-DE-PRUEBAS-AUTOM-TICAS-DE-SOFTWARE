@@ -3,8 +3,7 @@
 ## 📋 Información del Proyecto
 
 **Materia:** Aseguramiento de la Calidad del Software  
-**Universidad:** Universidad Autónoma de Ciudad Juárez (UACJ)  
-**Equipo:** [Nombre del equipo]  
+**Universidad:** Universidad Autónoma de Ciudad Juárez (UACJ)    
 **Integrantes:**
 - Luis Ubaldo Flores Pineda
 - Leslie Lucero Franco Calleros
