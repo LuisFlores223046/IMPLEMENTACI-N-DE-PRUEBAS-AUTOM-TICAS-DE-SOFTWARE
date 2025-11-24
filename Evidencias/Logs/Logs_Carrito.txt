@@ -1,0 +1,51 @@
+[info] Playing test case Untitled Test Suite / Untitled Test Case
+[info] Time: Sun Nov 23 2025 15:27:40 GMT-0700 (Mountain Standard Time) Timestamp: 1763936860239
+[info] OS: Windows Version: 10
+[info] Browser: Edge Chromium Version: 142.0
+[info] If the test cannot start, please refresh the active browser tab
+[info] Executing: | open | https://www.saucedemo.com/inventory.html | |
+[info] Executing: | click | id=add-to-cart-sauce-labs-backpack | |
+[info] Wait until the element is found
+[info] Cannot find element id=add-to-cart-sauce-labs-backpack after 1000ms switch to id=add-to-cart-sauce-labs-backpack
+[info] Executing: | click | id=add-to-cart-sauce-labs-backpack | |
+[info] Wait until the element is found
+[info] Cannot find element id=add-to-cart-sauce-labs-backpack after 1000ms switch to xpath=//button[@id='add-to-cart-sauce-labs-backpack']
+[info] Executing: | click | xpath=//button[@id='add-to-cart-sauce-labs-backpack'] | |
+[info] Wait until the element is found
+[info] Cannot find element xpath=//button[@id='add-to-cart-sauce-labs-backpack'] after 1000ms switch to xpath=//div[@id='inventory_container']/div/div/div[2]/div[2]/button
+[info] Executing: | click | xpath=//div[@id='inventory_container']/div/div/div[2]/div[2]/button | |
+[info] Executing: | open | https://www.saucedemo.com/cart.html | |
+[info] Executing: | click | link=1 | |
+[info] Wait until the element is found
+[info] Cannot find element link=1 after 1000ms switch to xpath=//div[@id='shopping_cart_container']/a
+[info] Executing: | click | xpath=//div[@id='shopping_cart_container']/a | |
+[info] Executing: | click | xpath=//div[@id='menu_button_container']/div/div/div | |
+[info] Executing: | click | id=react-burger-menu-btn | |
+[info] Executing: | open | https://www.saucedemo.com/inventory.html | |
+[info] Executing: | click | id=inventory_sidebar_link | |
+[info] Executing: | click | id=add-to-cart-sauce-labs-bolt-t-shirt | |
+[info] Executing: | open | https://www.saucedemo.com/cart.html | |
+[info] Executing: | click | link=2 | |
+[info] Wait until the element is found
+[info] Cannot find element link=2 after 1000ms switch to xpath=//div[@id='shopping_cart_container']/a
+[info] Executing: | click | xpath=//div[@id='shopping_cart_container']/a | |
+[info] Executing: | click | id=remove-sauce-labs-bolt-t-shirt | |
+[info] Executing: | open | https://www.saucedemo.com/inventory.html | |
+[info] Executing: | click | id=continue-shopping | |
+[info] Wait until the element is found
+[info] Cannot find element id=continue-shopping after 1000ms switch to id=continue-shopping
+[info] Executing: | click | id=continue-shopping | |
+[info] Wait until the element is found
+[info] Cannot find element id=continue-shopping after 1000ms switch to xpath=//button[@id='continue-shopping']
+[info] Executing: | click | xpath=//button[@id='continue-shopping'] | |
+[info] Wait until the element is found
+[info] Cannot find element xpath=//button[@id='continue-shopping'] after 1000ms switch to xpath=//div[@id='cart_contents_container']/div/div[2]/button
+[info] Executing: | click | xpath=//div[@id='cart_contents_container']/div/div[2]/button | |
+[info] Wait until the element is found
+[info] Cannot find element xpath=//div[@id='cart_contents_container']/div/div[2]/button after 1000ms switch to xpath=(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/following::button[1]
+[info] Executing: | click | xpath=(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/following::button[1] | |
+[info] Wait until the element is found
+[info] Cannot find element xpath=(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/following::button[1] after 1000ms switch to xpath=(.//*[normalize-space(text()) and normalize-space(.)='$29.99'])[1]/following::button[2]
+[info] Executing: | click | xpath=(.//*[normalize-space(text()) and normalize-space(.)='$29.99'])[1]/following::button[2] | |
+[info] Time: Sun Nov 23 2025 15:27:53 GMT-0700 (Mountain Standard Time) Timestamp: 1763936873426
+[info] Test case passed
